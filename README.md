@@ -94,7 +94,7 @@ Webpack also needs `Promise` for `import()` and `require.ensure()`. If you want 
 ### [Plugins](https://webpack.js.org/plugins/)
 
 Webpack has a [rich plugin
-interface](https://webpack.js.org/plugins/). Most of the features
+interface](https://webpack.js.org/plugins/). Most features
 within webpack itself use this plugin interface. This makes webpack very
 **flexible**.
 
